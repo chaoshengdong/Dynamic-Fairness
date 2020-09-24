@@ -5,7 +5,6 @@ The Paper contains 10 Figures corresponding to 10 different experiments. You can
 
 ### Create environment
 `conda create --name dynamic-fairness`  
-
 `conda activate dynamic-fairness` 
 `conda install -n dynamic-fairness pip` 
 `pip install git+https://www.github.com/keras-team/keras-contrib.git`
