@@ -4,7 +4,8 @@ In this repository, we have uploaded the code corresponding to the SIGIR2020 Pap
 The Paper contains 10 Figures corresponding to 10 different experiments. You can reproduce all of them from the command line. 
 
 ### Create environment
-`conda create --name dynamic-fairness`
+`conda create --name dynamic-fairness`  
+
 `conda activate dynamic-fairness` 
 `conda install -n dynamic-fairness pip` 
 `pip install git+https://www.github.com/keras-team/keras-contrib.git`
